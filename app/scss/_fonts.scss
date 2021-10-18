@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'DINRoundPro-Light';
+  font-weight: 300;
+  font-style: normal;
+  src: local('DINRoundPro-Light'),
+       url('../fonts/DINRoundPro-Light.woff2') format('woff2'),
+       url('../fonts/DINRoundPro-Light.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DINRoundPro-Regular';
+  font-weight: 400;
+  font-style: normal;
+  src: local('DINRoundPro-Regular'),
+    url('../fonts/DINRoundPro-Regular.woff2') format('woff2'),
+    url('../fonts/DINRoundPro-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DINRoundPro-Medium';
+  font-weight: 500;
+  font-style: normal;
+  src: local('DINRoundPro-Medium'),
+    url('../fonts/DINRoundPro-Medium.woff2') format('woff2'),
+    url('../fonts/DINRoundPro-Medium.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DINRoundPro-Bold';
+  font-weight: 700;
+  font-style: normal;
+  src: local('DINRoundPro-Bold'),
+    url('../fonts/DINRoundPro-Bold.woff2') format('woff2'),
+    url('../fonts/DINRoundPro-Bold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DINRoundPro-Black';
+  font-weight: 900;
+  font-style: normal;
+  src: local('DINRoundPro-Black'),
+    url('../fonts/DINRoundPro-Black.woff2') format('woff2'),
+    url('../fonts/DINRoundPro-Black.woff') format('woff');
+  font-display: swap;
+}

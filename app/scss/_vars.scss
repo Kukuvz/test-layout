@@ -1,0 +1,50 @@
+$accent: #ff1541;
+$yellow: #ec9e21;
+$default: #898484;
+$title: #261c04;
+$bg: #f6f6f6;
+
+%dinround-300 {
+  font-family: 'DINRoundPro-Light', sans-serif;
+  font-weight: 300;
+}
+
+%dinround-400 {
+  font-family: 'DINRoundPro-Regular', sans-serif;
+  font-weight: 400;
+}
+
+%dinround-500 {
+  font-family: 'DINRoundPro-Medium', sans-serif;
+  font-weight: 500;
+}
+
+%dinround-700 {
+  font-family: 'DINRoundPro-Bold', sans-serif;
+  font-weight: 700;
+}
+
+%dinround-900 {
+  font-family: 'DINRoundPro-Black', sans-serif;
+  font-weight: 900;
+}
+
+%radio-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+
+%btn {
+  height: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  @extend %dinround-900;
+  line-height: 0;
+  border-radius: 30px;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}

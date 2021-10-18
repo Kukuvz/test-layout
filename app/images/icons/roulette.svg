@@ -1,0 +1,7 @@
+<svg id="рулетка" xmlns="http://www.w3.org/2000/svg" width="40" height="29" viewBox="0 0 40 29">
+  <path d="M1301.23,243c6.66,0,12.05,3.3,12.05,7.375s-5.39,7.375-12.05,7.375-12.04-3.3-12.04-7.375S1294.58,243,1301.23,243Z" transform="translate(-1288 -243)" fill="#f09400" fill-rule="evenodd" />
+  <ellipse cx="13" cy="6.5" rx="4" ry="2.5" fill="#fff" fill-opacity="0" stroke="#fff" stroke-linejoin="round" stroke-width="1px" />
+  <ellipse cx="13" cy="6.5" rx="9" ry="5.5" fill="#fff" fill-opacity="0" stroke="#fff" stroke-linejoin="round" stroke-width="1px" />
+  <path d="M1300.68,258.965h25.18a2.124,2.124,0,0,1,2.14,2.105V270a1.921,1.921,0,0,1-2,2h-25c-11.25,0-13-6.895-13-6.895V254.228A18.137,18.137,0,0,0,1300.68,258.965ZM1323,268a1,1,0,0,1,1,1v3a1,1,0,0,1-2,0v-3A1,1,0,0,1,1323,268Zm-5-3a1,1,0,0,1,1,1v6a1,1,0,0,1-2,0v-6A1,1,0,0,1,1318,265Zm-5,3a1,1,0,0,1,1,1v3a1,1,0,0,1-2,0v-3A1,1,0,0,1,1313,268Zm-5-3a1,1,0,0,1,1,1v6a1,1,0,0,1-2,0v-6A1,1,0,0,1,1308,265Zm-5,3a1,1,0,0,1,1,1v3a1,1,0,0,1-2,0v-3A1,1,0,0,1,1303,268Z" transform="translate(-1288 -243)" fill="#f09400" fill-rule="evenodd" />
+  <path d="M1313.46,254.228v3.333h-5C1310.37,257.561,1313.46,254.754,1313.46,254.228Z" transform="translate(-1288 -243)" fill="#f09400" fill-rule="evenodd" />
+</svg>
